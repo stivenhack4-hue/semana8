@@ -1,0 +1,8 @@
+La seguridad digital es fundamental para proteger las plataformas tecnológicas utilizadas por las comunidades y los procesos participativos.
+Estas plataformas almacenan información importante que debe mantenerse segura para evitar accesos no autorizados. 
+La protección de datos personales fortalece la confianza de los usuarios y reduce riesgos de fraude o robo de información.
+Además, aplicar buenas prácticas de seguridad ayuda a garantizar la disponibilidad de los servicios. 
+También permite prevenir ataques informáticos que podrían afectar el funcionamiento de la plataforma.
+El uso de contraseñas seguras y conexiones protegidas contribuye a la protección de los sistemas. 
+La seguridad es una responsabilidad compartida entre administradores y usuarios. 
+Por estas razones, la seguridad digital es un elemento esencial para el correcto funcionamiento de cualquier plataforma comunitaria.
