@@ -1,0 +1,10 @@
+Comando: uname -a
+Muestra información detallada del sistema operativo, incluyendo el kernel de Linux, 
+la arquitectura y otros datos técnicos.
+
+Comando: whoami
+Muestra el nombre del usuario que está utilizando actualmente el sistema.
+
+Importancia:
+Conocer la información del sistema ayuda a administrar servidores de manera eficiente, verificar configuraciones,
+solucionar problemas y controlar los permisos de acceso de los usuarios.
